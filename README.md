@@ -1,4 +1,4 @@
-# DVD_RENTAL_DASHBOARD
+# DVD_RENTAL_DASHBOARD POWER_BI
 
 Unveiling Hidden Insights: Dive into a Data-Driven DVD Rental Dashboard with Power BI
 
